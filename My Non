@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ฝ่ายบริการ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px; 
+        }
+        p {
+            color: #FFFFFF;
+    }h1 {color:#FFFFFF 
+    </style>
+</head>
+<body style="background-color: #144C9A;">
+<img src="https://img5.pic.in.th/file/secure-sv1/Untitled-1de50e4e7d9e51439.png" alt="Positioned Image" width="315" height="49" class="positioned-image">
+<body>
+<style>
+        .positioned-image {
+            position: relative;
+            left: -20px;
+            top: 20px;
+  </style>
+<h1>&nbsp; &nbsp; ติดต่อสอบถาม&nbsp; &nbsp;</h1>
+<blockquote>
+  <blockquote>
+    <p><strong>&nbsp;  ติดต่อฝ่ายบริการ&nbsp; &nbsp;</strong></p>
+  </blockquote>
+</blockquote>
+<p><a href="https://facebook.com" target="_top"><img src="https://img5.pic.in.th/file/secure-sv1/LINE_logo.svgd1e65319675febe1.webp  " alt="Line" width="150" height="150"></a>&nbsp;</p>
+<h1>LINE
+</h1>
+<p>&nbsp;<a href="https://facebook.com" target="_blank"><img src="https://img2.pic.in.th/pic/ced66ecfc53814d71f8774789b55cc76.png" alt="Facebook" width="154" height="150"></a></p>
+</body>
+  <body>
+    <h1>FACEBOOK</h1>
+  
+  </body>
+</html>
